@@ -2,13 +2,13 @@
 
 ## Thông tin nhóm
 
-**Lớp: 02**
+**Lớp: 01**
 
 | STT | Họ và tên | Mã sinh viên |
 |---:|---|---|
-| 1 | Nguyễn Khắc Nhật Huy | B23DCDT123 |
-| 2 | Nguyễn Trung Đán | B23DCDT043 |
-| 3 | Hoàng Hải Đăng | B23DCDT303 |
+| 1 | Dương Thế Huy | B23DCDT119 |
+| 2 | Vũ Thành Dũng  | B23DCDT071 |
+| 3 | Ngô Đúc Dũng | B23DCDT067 |
 
 ## Phạm vi và công nghệ
 
