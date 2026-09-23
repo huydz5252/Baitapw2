@@ -161,17 +161,7 @@ Nếu đang OFF, lệnh `PWM:x%!` chỉ cập nhật biến duty; compare vẫn 
 Khi nhận `ON!`, chương trình mới áp dụng duty gần nhất. Đây là phần trạng
 thái quan trọng nhất của bài 05.
 
-## Video demo
 
-Có thể tải video vào thư mục `video-demo/` của từng bài:
-
-```text
-bai-01-uart-buffer/video-demo/demo-bai-01.mp4
-bai-02-systick-leds/video-demo/demo-bai-02.mp4
-bai-03-adc-uart/video-demo/demo-bai-03.mp4
-bai-04-pwm-4ch/video-demo/demo-bai-04.mp4
-bai-05-uart-pwm-control/video-demo/demo-bai-05.mp4
-```
 
 Không cần tạo `.gitkeep`; khi đã có video, Git sẽ tự theo dõi thư mục.
 
